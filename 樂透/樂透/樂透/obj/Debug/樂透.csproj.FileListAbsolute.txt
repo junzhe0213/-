@@ -1,0 +1,12 @@
+C:\git\樂透\樂透\樂透\bin\Debug\樂透.exe.config
+C:\git\樂透\樂透\樂透\bin\Debug\樂透.exe
+C:\git\樂透\樂透\樂透\bin\Debug\樂透.pdb
+C:\git\樂透\樂透\樂透\obj\Debug\樂透.csprojResolveAssemblyReference.cache
+C:\git\樂透\樂透\樂透\obj\Debug\樂透.exe
+C:\git\樂透\樂透\樂透\obj\Debug\樂透.pdb
+C:\git\樂透開獎\樂透\樂透\樂透\bin\Debug\樂透.exe.config
+C:\git\樂透開獎\樂透\樂透\樂透\obj\Debug\樂透.exe
+C:\git\樂透開獎\樂透\樂透\樂透\obj\Debug\樂透.pdb
+C:\git\樂透開獎\樂透\樂透\樂透\bin\Debug\樂透.exe
+C:\git\樂透開獎\樂透\樂透\樂透\bin\Debug\樂透.pdb
+C:\git\樂透開獎\樂透\樂透\樂透\obj\Debug\樂透.csprojResolveAssemblyReference.cache
