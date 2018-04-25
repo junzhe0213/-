@@ -36,7 +36,7 @@ namespace 樂透
                     Console.WriteLine("│                       │");
                     Console.WriteLine("│                       │");
                     Console.WriteLine("└───────────────────────┘");
-                    Console.WriteLine("[請按Enter進行下一次開獎]");
+                    Console.WriteLine("[請按Enter進行下一次開獎]          靠北工程師");
                     Console.ReadLine();
                     //次數減一
                     j = j - 1;
